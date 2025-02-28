@@ -1,0 +1,25 @@
+{
+  "name": "easydrag",
+  "version": "1.0.0",
+  "description": "EasyDrag é uma biblioteca JavaScript leve e intuitiva que permite arrastar elementos da interface gráfica do usuário com facilidade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/from80s/easydrag.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "draggable",
+    "javascript"
+  ],
+  "author": "Thiago Teles Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/from80s/easydrag/issues"
+  },
+  "homepage": "https://github.com/from80s/easydrag#readme"
+}

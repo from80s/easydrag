@@ -1,2 +1,2 @@
 # easydrag
-EasyDrag é uma biblioteca JavaScript leve e intuitiva que permite arrastar elementos da interface gráfica do usuário com facilidade
+EasyDrag é uma biblioteca JavaScript leve e intuitiva que permite arrastar elementos da interface gráfica do usuário com facilidade. Com uma implementação simples e rápida, você pode adicionar funcionalidades de arrastar e soltar em seus projetos sem complicações. EasyDrag oferece uma ampla gama de opções de ajustes e personalização, permitindo que você adapte a experiência de arrasto às suas necessidades específicas. Além disso, a biblioteca não possui dependências de terceiros, garantindo um desempenho otimizado e uma integração suave em qualquer aplicação. Transforme a interação do usuário com facilidade usando EasyDrag!
